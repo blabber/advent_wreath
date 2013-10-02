@@ -31,7 +31,7 @@ A1, A2 and A3 pins. The common cathode should fit into GND (obviously).
 
 Here are some pictures:
 
-![the candles](./img/advent_wreath.jpg)
+![the candles](./img/candles.jpg)
 
 ![the candles in the Arduino](./img/advent_wreath.jpg)
 
