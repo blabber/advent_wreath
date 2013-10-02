@@ -33,7 +33,7 @@ Here are some pictures:
 
 ![the candles](./img/advent_wreath.jpg)
 
-![the candles in the Arduino](./advent_wreath.jpg)
+![the candles in the Arduino](./img/advent_wreath.jpg)
 
 The Sketch
 ----------
